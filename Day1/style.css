@@ -10,21 +10,21 @@ height: 100%;
 }
 body{
     color: #111;
-    margin-left: 550px;
+    background-color: rgb(66, 128, 95);
+    padding-left: 500px;
     margin-top: 200px;
 }
 h2{
-    width: 200px;
+    width: 320px;
     font-size: 50px;
-    padding-left: 85px;
-    margin-top: 20px;
+    padding-left: 145px;
     border-radius: 20px;
     border: 2px solid black;
 }
 
 button{
-    background-color: crimson;
-    padding: 10px 20px;
+    background-color: rgb(79, 109, 185);
+    padding: 10px 50px;
     margin-top: 20px;
     border-radius: 10px;
 }
