@@ -63,6 +63,22 @@ var arr = [
         trophies: 0,
         captain: 'Shreyas Iyer',
     },
+    {
+        team: 'GT',
+        fullName: 'Gujarat Titans',
+        primary: 'navy',
+        secondary: 'gold',
+        trophies: 1,
+        captain: 'Shubman Gill',
+    },
+    {
+        team: 'LSG',
+        fullName: 'Lucknow Super Giants',
+        primary: 'blue',
+        secondary: 'orange',
+        trophies: 0,
+        captain: 'Rishabh Pant',
+    },
 ];
 
 var btn = document.querySelector('button');
