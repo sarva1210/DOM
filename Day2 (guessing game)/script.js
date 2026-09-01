@@ -2,7 +2,7 @@ var arr = [
     {
         team: 'CSK',
         fullName: 'Chennai Super Kings',
-        primary: 'gold',
+        primary: 'yellow',
         secondary: 'blue',
         trophies: 5,
         captain: 'Ruturaj Gaikwad',
@@ -10,7 +10,7 @@ var arr = [
     {
         team: 'MI',
         fullName: 'Mumbai Indians',
-        primary: 'blue',
+        primary: 'navy',
         secondary: 'gold',
         trophies: 5,
         captain: 'Hardik Pandya',
